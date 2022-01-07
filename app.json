@@ -2,7 +2,7 @@
     "name": "Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
     "repository": "https://github.com/AsmSafone/MusicPlayer",
-    "logo": "https://github.com/AsmSafone/MusicPlayer/raw/main/theme/logo.png",
+    "logo": "https://telegra.ph/file/8b87c1c2ee96b50530d4b.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
